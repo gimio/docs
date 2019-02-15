@@ -1,6 +1,7 @@
 # Versioning
 
 app versioning is a tools for hold versions of app.  
+in the game startup, 
 developer can define somthing like:
 
 - version number [more](#version-number)
@@ -10,12 +11,12 @@ developer can define somthing like:
 - download links [more](#links)
 
 ## version number
-version number is key of version somthing like build number.
-like:
+version number is key of version somthing like build number.  
+like:  
 `1`, `2`, `3`, ..., `1000`, ...
 
 ## version name
-like:
+like:  
 `1.2.3`, `2.2`, `nowroz-edition`, ...
 
 ## links

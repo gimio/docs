@@ -1,9 +1,10 @@
 ## what is gimio?
 its a service for game developers to create better online games :| (fix it @hamed)
 
-## list of features
+## list of features:
+
 - user identity
-- leaderboard
+- leaderboard [more](leaderboard/README.md)
 - achivments
 - mini blog
 - cloud variables
@@ -12,3 +13,9 @@ its a service for game developers to create better online games :| (fix it @hame
 - user activity events
 - contact with developer
 - push notification
+
+## next features:
+
+- remote function + database
+- add friends
+- match maker
