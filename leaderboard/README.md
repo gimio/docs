@@ -9,6 +9,7 @@ developer can define below items to a leaderboard:
 - can set lower score is better
 - min and max value of score
 - is summable [more](#is-summable)
+- define leader board for period time (for fastivals, ...)
 
 ## format types
 
