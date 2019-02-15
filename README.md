@@ -4,12 +4,12 @@ its a service for game developers to create better online games :| (fix it @hame
 ## list of features:
 
 - user identity
-- leaderboard [more](leaderboard/README.md)
+- leaderboard [more](services/leaderboard/README.md)
 - achivments
 - mini blog
 - cloud variables
 - online save
-- app versioning [more](versioning/README.md)
+- app versioning [more](services/versioning/README.md)
 - user activity events
 - contact with developer
 - push notification
