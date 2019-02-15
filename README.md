@@ -8,7 +8,7 @@ its a service for game developers to create better online games :| (fix it @hame
 - mini blog
 - cloud variables
 - online save
-- app versioning
+- app versioning [more](versioning/README.md)
 - user activity events
 - contact with developer
 - push notification
