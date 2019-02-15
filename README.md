@@ -1,7 +1,8 @@
-## what is gimio?
+# what is gimio
+
 its a service for game developers to create better online games :| (fix it @hamed)
 
-## list of features:
+## list of features
 
 - user identity
 - leaderboard [more](services/leaderboard/README.md)
@@ -14,8 +15,30 @@ its a service for game developers to create better online games :| (fix it @hame
 - contact with developer
 - push notification
 
-## next features:
+### next features
 
 - remote function + database
 - add friends
 - match maker
+
+## technologies & libraries we want use
+
+### back-end
+
+- [aspnet-core](https://github.com/aspnet)
+- [docker](https://www.docker.com/)
+- [postgresql](https://www.postgresql.org/)
+- [redis](https://redis.io/)
+- [rabbitmq](https://www.rabbitmq.com/)
+- [kasp](https://github.com/Kican/Kasp)
+
+### clients
+
+- android aar (kotlin)
+- [kroid](https://github.com/Kican/Kroid)
+- unity sdk
+
+### front-end
+
+- [angular](https://angular.io/)
+- [bootstrap](https://getbootstrap.com/)
