@@ -7,7 +7,7 @@ its a service for game developers to create better online games :| (fix it @hame
 - user identity [more](services/identity/README.md)
 - leaderboard [more](services/leaderboard/README.md)
 - achivments
-- mini blog
+- mini blog  [more](services/mini-blog/README.md)
 - cloud variables
 - online save
 - app versioning [more](services/versioning/README.md)
