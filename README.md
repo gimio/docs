@@ -4,7 +4,7 @@ its a service for game developers to create better online games :| (fix it @hame
 
 ## list of features
 
-- user identity
+- user identity [more](services/identity/README.md)
 - leaderboard [more](services/leaderboard/README.md)
 - achivments
 - mini blog
